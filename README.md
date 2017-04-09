@@ -1,2 +1,2 @@
-# vae_tuts
+# Variational 
 A Playground for Variational Autoencoders
